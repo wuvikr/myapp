@@ -1,2 +1,2 @@
 this is test file
-this second line
+this second line    fix a bug
